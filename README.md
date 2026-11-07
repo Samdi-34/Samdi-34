@@ -1,5 +1,3 @@
-# Hi, I'm Samdi Ayodeji 👋
-
 **CLOUD COMPUTING | AWS | AZURE | DOCKER | KUBERNETES**
 
 Interested in cloud infrastructure, containerization, database management, and application deployment. Focused on building practical technical skills through hands-on experience and continuous learning.
@@ -15,13 +13,13 @@ Interested in cloud infrastructure, containerization, database management, and a
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Samdi-34&show_icons=true&include_all_commits=true)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Samdi-34&layout=compact)
 
 ### 🏆 GitHub Achievements
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samdi-34E&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 Connect With Me
 
