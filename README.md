@@ -11,33 +11,25 @@
 
 ### 🛠️ Technical Stack & Skills
 
-**Cloud Computing**
+Cloud Platforms · AWS · Microsoft Azure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Containerization & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+Containerization & Orchestration · Docker · Docker Compose · Kubernetes
 
-**Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools & Version Control**
+Database Management · MySQL · SQL
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Other**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Fundamentals-1E90FF?style=flat-square&logo=datadog&logoColor=white)
+Development Tools & Version Control · Git · GitHub · PowerShell
 
----
+
+
+Security Fundamentals · Cybersecurity
+
+
 
 ### 📊 GitHub Statistics
 
